@@ -2,7 +2,9 @@
 
 > An educational, responsive trivia arcade bridging the sacred ancestral traditions of **Día de los Muertos** with the natural history, optics, and folklore science of **Gothic Halloween**.
 
-Built with React 19, TypeScript, Tailwind CSS, and Web Audio API as a **100% static, client-side web application** ready for instant deployment to GitHub Pages.
+Built with React 19, TypeScript, Tailwind CSS, and Web Audio API as a **100% static, client-side web application**.
+
+Deployed to [GitHub Pages](https://dmytrovoytko.github.io/lumina-spookyedu/) - check it out! 👻
 
 ![Starting Screen](screenshots/1-start-screen.png)
 
@@ -126,5 +128,7 @@ The compiled static website will be in the `dist/` directory, ready to be hosted
 # Run the 16 unit tests
 npm test
 ```
+
+**Want to check it out?** **Simply click** [Lumina on GitHub Pages](https://dmytrovoytko.github.io/lumina-spookyedu/).
 
 🎃💀 Have fun! 👻
