@@ -28,9 +28,11 @@ Built with React 19, TypeScript, Tailwind CSS, and Web Audio API as a **100% sta
 ### 2. Ticking Candle Survival Engine
 
 - **Animated SVG Candle**: The ceremonial flame and melting wax indicate your remaining time and vitality.
+
 ![Trivia questions](screenshots/2-trivia-questions.png)
 
 - **Dynamic Pressure**: Correct answers replenish the flame; errors cause a puff of smoke and cost precious seconds.
+
 ![Time limist](screenshots/3-time-limits.png)
 
 - **Combo Multipliers**: Consecutive streaks (3x, 5x, 10x) trigger luminous flame flares and harmonic audio fanfares.
