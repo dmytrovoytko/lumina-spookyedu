@@ -1,0 +1,6 @@
+{
+  "name": "Lumina by SpookyEdu Studio",
+  "description": "Edutainment web app blending Halloween lore, nocturnal science, and Día de los Muertos traditions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
